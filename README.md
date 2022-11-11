@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @DTrXuan
-- 👀 I’m interested in Embedded Software/PCB design
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Xuan
 
 <!---
 DTrXuan/DTrXuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
